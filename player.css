@@ -97,7 +97,7 @@
   cursor: pointer;
 }
 .mdtc-clnplra-main-player .mdtc-clnplra-playlist ul li.mdtc-clnplra-playlist-current {
-  background: #5687e1 !important;
+  background: #000 !important;
   color: #ffffff;
 }
 .mdtc-clnplra-main-player .mdtc-clnplra-playlist ul li:nth-child(even) {
